@@ -2,7 +2,7 @@
 Database schema
 https://dbdiagram.io/d/629c8baf54ce26352760e6cb
 
-__Get user by  ID
+__Get user by  ID__
 
 SELECT * FROM users
 WHERE user_id = n;
